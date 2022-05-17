@@ -73,7 +73,7 @@ function uploadBudget() {
                 // clear all items in your store
                 budgetObjectStore.clear();
 
-                alert('All saved budget has been submitted!');
+                alert('All transactions have been submitted!');
             })
             .catch(err => {
                 console.log(err);
