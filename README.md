@@ -12,7 +12,7 @@ This application is deployed via heroku and can be accessed via link given below
 
 [Link to Deployed Application](https://afternoon-escarpment-35134.herokuapp.com/)
 
-[Link to Application Repository](https://github.com/ArmondR/Social-Network-API)
+[Link to Application Repository](https://github.com/ArmondR/Budget-Tracker)
 
 ## Screenshot
 
